@@ -9,5 +9,5 @@
 - 💬 Ask me about anything!😊
 - 📫 How to reach me: maj.knez@protonmail.com or on Discord: Doc#1477
 - ⚡ Fun fact: im the worst designer on this planet.😂
-<-- 😄 Pronouns: ...-->
+
 
