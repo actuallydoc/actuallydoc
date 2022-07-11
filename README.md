@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=actuallydoc)](https://github.com/actuallydoc/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=actuallydoc&show_icons=true&theme=gruvbox)
 <!--
 **actuallydoc/actuallydoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
