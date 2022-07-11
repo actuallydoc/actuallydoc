@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on automating with python. 🙌
 - 🌱 I’m currently learning JavaScript, TypeScript, Databases, Automation🤷‍♂️
+- 🤦‍♂️ In the future ill be learning embedded programming.
 - 👯 I’m looking to collaborate on anything within my knowledge✌
 - 🤔 I’m looking for help with anything because im trying to expand my knowledge!
 - 💬 Ask me about anything!😊
