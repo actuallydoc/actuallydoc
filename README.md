@@ -3,7 +3,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=actuallydoc&show_icons=true&theme=gruvbox)
 
 - 🔭 I’m currently working on MERN application for invoicing. 🙌
-- 🌱 I’m currently learning Typescript, MongoDB, React , Node.js/Express🤷‍♂️
+- 🌱 I’m currently learning Next.js , Firebase auth.
+- 💚 Technology and frameworks i know: MongoDB, React , Node.js, JWT, Json, Prisma ,Python, Typescript
 - 🤦‍♂️ In the future ill be learning embedded programming.
 - 👯 I’m looking to collaborate on anything within my knowledge✌
 - 🤔 I’m looking for help with anything because im trying to expand my knowledge!
