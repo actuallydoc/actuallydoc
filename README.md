@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=actuallydoc)](https://github.com/actuallydoc/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=actuallydoc&show_icons=true&theme=gruvbox)
-
+- 💾 Favourite language: 🦀
 - 🔭 I’m currently working on ESP32 Hobby Project
 - 🌱 I’m currently learning Rust, C/C++
 - 💚 Technology and frameworks i know: MongoDB, React , Node.js/Express, JWT, Json, Prisma ,Python, Typescript(Partly), TailwindCSS, Rust(Basics).
