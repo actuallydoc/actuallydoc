@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on anything within my knowledge✌
 - 🤔 I’m looking for help with anything because im trying to expand my knowledge!
 - 💬 Ask me about anything!😊
-- 📫 How to reach me: maj.knez@protonmail.com or on Discord: Doc#1477
+- 📫 How to reach me: actuallydoc@gmail.com or on Discord: Doc#1477
 - ⚡ Fun fact: im the worst designer on this planet.😂
 
 
