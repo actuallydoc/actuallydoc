@@ -1,5 +1,5 @@
 # 💫 About Me:
-💾 Favourite language: 🦀<br>🔭 I’m currently working on ESP32 Hobby Project<br>🌱 I’m currently learning Rust, C/C++<br>💚 Technology and frameworks i know: MongoDB, React , Node.js/Express, JWT, Json, Prisma ,Python, Typescript(Partly), TailwindCSS, Rust(Basics).<br>🤦‍♂️ In the future ill be learning Java , C#.<br>👯 I’m looking to collaborate on anything within my knowledge✌<br>🤔 I’m looking for help with anything because im trying to expand my knowledge!<br>💬 Ask me about anything!😊<br>📫 How to reach me: actuallydoc@gmail.com or on Discord: Doc#1477<br>⚡ Fun fact: I'm the worst designer on this planet.😂
+💾 Favourite language: 🦀<br>🔭 I’m currently working on ESP32 Hobby Project<br>🌱 I’m currently learning Rust <br>👯 I’m looking to collaborate on anything within my knowledge✌<br>🤔 I’m looking for help with anything because im trying to expand my knowledge!<br>💬 Ask me about anything!😊<br>📫 How to reach me: actuallydoc@gmail.com or on Discord: Doc#1477<br>⚡ Fun fact: I'm the worst designer on this planet.😂
 
 
 ## 🌐 Socials:
