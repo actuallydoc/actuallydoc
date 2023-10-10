@@ -1,6 +1,5 @@
 # 💫 About Me:
 💾 Favourite language: 🦀<br>🔭 I’m currently working on Everything<br>🌱 I’m currently learning Rust <br>👯 I’m looking to collaborate on anything within my knowledge✌<br>🤔 I’m looking for help with anything because im trying to expand my knowledge!<br>💬 Ask me about anything!😊<br>📫 How to reach me: actuallydoc@gmail.com or on Discord: Doc#1477<br>⚡ Fun fact: I'm the worst designer on this planet.😂
-<br>🤢My goal is to write efficient code (which i currently dont)<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/jBvR9PMF) 
