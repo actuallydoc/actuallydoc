@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://stanleylim.me/">Stanley</a></h2>
+<h2>Hey 👋, I'm <strong>Maj</strong></h2>
 <p>I'm currently a software engineer at <strong><a href="https://www.1ainternet.net/">1AInternet</a></strong> based in 🇸🇮 Slovenia I am working on some side projects, learning a couple new dishes, and trying to conquer the IT field</p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
@@ -39,4 +39,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=actuallydoc&show_icons=true&count_private=true" alt="actuallydoc" />
-<p><a href="http://hits.dwyl.com/actuallydoc/actuallydoc/actuallydoc?style=flat-square"><img src="https://hits.dwyl.com/actuallydoc/actuallydoc/actuallydoc?style=flat-square" alt="HitCount"></a></p>
