@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <strong>Maj</strong></h2>
-<p>I'm currently a software engineer at <strong><a href="https://www.1ainternet.net/">1AInternet</a></strong> based in 🇸🇮 Slovenia I am working on some side projects, learning a couple new dishes, and trying to conquer the IT field</p>
+<p>I'm currently a junior software engineer based in 🇸🇮 Slovenia I am working on some side projects, learning a couple new dishes, and trying to conquer the IT field</p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
